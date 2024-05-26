@@ -67,7 +67,7 @@ public class Main {
                 season = "лето";
                 break;
             default:
-                season = "осень";
+                season = "осень ";
                 break;
         }
 
